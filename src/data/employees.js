@@ -1,0 +1,122 @@
+export const initialEmployees = [
+  { 
+    id: "EMP001", 
+    name: "Arun Kumar", 
+    email: "arun@example.com", 
+    phone: "+91 98765 43210", 
+    department: "Development", 
+    position: "Frontend Developer", 
+    joiningDate: "2025-01-10", 
+    salary: 75000, 
+    status: "Active", 
+    profileImage: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150" 
+  },
+  { 
+    id: "EMP002", 
+    name: "Priya Sharma", 
+    email: "priya@example.com", 
+    phone: "+91 98765 43211", 
+    department: "Design", 
+    position: "UI/UX Designer", 
+    joiningDate: "2024-11-15", 
+    salary: 70000, 
+    status: "Active", 
+    profileImage: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150" 
+  },
+  { 
+    id: "EMP003", 
+    name: "Rahul Verma", 
+    email: "rahul@example.com", 
+    phone: "+91 98765 43212", 
+    department: "HR", 
+    position: "HR Manager", 
+    joiningDate: "2023-06-01", 
+    salary: 85000, 
+    status: "Active", 
+    profileImage: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150" 
+  },
+  { 
+    id: "EMP004", 
+    name: "Ananya Iyer", 
+    email: "ananya@example.com", 
+    phone: "+91 98765 43213", 
+    department: "Marketing", 
+    position: "SEO Specialist", 
+    joiningDate: "2025-02-01", 
+    salary: 60000, 
+    status: "On Leave", 
+    profileImage: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150" 
+  },
+  { 
+    id: "EMP005", 
+    name: "Karthik Raja", 
+    email: "karthik@example.com", 
+    phone: "+91 98765 43214", 
+    department: "Finance", 
+    position: "Accountant", 
+    joiningDate: "2022-09-12", 
+    salary: 65000, 
+    status: "Active", 
+    profileImage: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150" 
+  },
+  { 
+    id: "EMP006", 
+    name: "Sneha Pillai", 
+    email: "sneha@example.com", 
+    phone: "+91 98765 43215", 
+    department: "Sales", 
+    position: "Sales Executive", 
+    joiningDate: "2025-02-12", 
+    salary: 58000, 
+    status: "Active", 
+    profileImage: "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150" 
+  },
+  { 
+    id: "EMP007", 
+    name: "Vikram Malhotra", 
+    email: "vikram@example.com", 
+    phone: "+91 98765 43216", 
+    department: "Development", 
+    position: "Backend Developer", 
+    joiningDate: "2024-10-05", 
+    salary: 95000, 
+    status: "Active", 
+    profileImage: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150" 
+  },
+  { 
+    id: "EMP008", 
+    name: "Divya Ramesh", 
+    email: "divya@example.com", 
+    phone: "+91 98765 43217", 
+    department: "Design", 
+    position: "Graphic Designer", 
+    joiningDate: "2025-03-01", 
+    salary: 55000, 
+    status: "Inactive", 
+    profileImage: "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=150" 
+  },
+  { 
+    id: "EMP009", 
+    name: "Manoj Prabhakar", 
+    email: "manoj@example.com", 
+    phone: "+91 98765 43218", 
+    department: "Sales", 
+    position: "Sales Manager", 
+    joiningDate: "2024-05-18", 
+    salary: 88000, 
+    status: "Active", 
+    profileImage: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=150" 
+  },
+  { 
+    id: "EMP010", 
+    name: "Swathi Nair", 
+    email: "swathi@example.com", 
+    phone: "+91 98765 43219", 
+    department: "HR", 
+    position: "Recruiter", 
+    joiningDate: "2025-04-10", 
+    salary: 62000, 
+    status: "Active", 
+    profileImage: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150" 
+  }
+];
